@@ -1,0 +1,15 @@
+# Секреты — никогда не пушить на GitHub
+api_keys.json
+ig_creds.json
+instagram_cookies.txt
+www.instagram.com_cookies.txt
+sync_config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Temp
+*.tmp
